@@ -6,7 +6,7 @@
 
 ### Section 1: Software and Platforms
 
-- software: Jupyter Notebook, Python Version 3.11.4
+- software: VS Code, Python Version 3.11.4
 
 - add-on packages: numpy, pandas, matplotlib, sklearn, nltk, string
 
