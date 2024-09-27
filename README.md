@@ -8,7 +8,7 @@
 
 - software: VS Code, Python Version 3.11.4
 
-- add-on packages: numpy, pandas, matplotlib, sklearn, nltk, string
+- add-on packages: 
 
 - platform: mac
 
@@ -27,4 +27,6 @@
 
 ### Section 3: Instructions for Reproducability
 
-
+- Install VS Code, Python Version 3.11.4
+- pip install numpy, pandas, matplotlib, sklearn, nltk, string
+- run code.ipynb file
