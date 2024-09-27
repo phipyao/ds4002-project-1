@@ -28,7 +28,11 @@
 ### Section 3: Instructions for Reproducability
 
 - Install VS Code and Python Version 3.11.4
+
 - Clone the git repository
+
 - In the terminal, pip install numpy, pandas, matplotlib, sklearn, nltk, string, re, collections
+
 - Install the jupyter extension in VSCode
+
 - run code.ipynb file
