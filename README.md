@@ -35,4 +35,4 @@
 
 - Install the jupyter extension in VSCode
 
-- run code.ipynb file
+- Run the code.ipynb file
