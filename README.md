@@ -3,7 +3,7 @@
 
 ## contents:
 
-This github repository was put together by Philip Yao, Chris Kim, and Jessica Li. It contians source data, code, and output charts to analyze spam message data and how
+This GitHub repository was put together by Philip Yao, Chris Kim, and Jessica Li. It contains source data, code, and output charts to analyze spam message data.
 
 ### Section 1: Software and Platforms
 
@@ -39,3 +39,4 @@ This github repository was put together by Philip Yao, Chris Kim, and Jessica Li
 
 
 ### References:
+[1] “Email Spam Detection 98% Accuracy,” kaggle.com. https://www.kaggle.com/code/mfaisalqure
